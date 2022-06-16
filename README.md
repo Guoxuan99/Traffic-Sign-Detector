@@ -1,5 +1,5 @@
 # Traffic-Sign-Detector
-Extra Project - Clone of existed project online - Traffic Sign Detector - Using datasets from Kaggle, train a CNN model for image classification purpose and use tkinter for GUI purpose.
+Extra Project - Traffic Sign Detector - Using datasets from Kaggle, train a CNN model for image classification purpose and use tkinter for GUI purpose.
 
 Original Project: https://data-flair.training/blogs/python-project-traffic-signs-recognition/
 
